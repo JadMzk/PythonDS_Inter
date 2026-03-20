@@ -2,3 +2,5 @@ pandas
 matplotlib
 seaborn
 great_tables
+geopandas
+cartiflette
