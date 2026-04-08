@@ -2,7 +2,7 @@
 
 ## En global
 
-Dans le README.md -> comment lancer le code ?
+Dans le README.md -> comment lancer le code ?  
 Une même cellule peut contenir plusieurs traitements.
 
 ## Les questions du DM
