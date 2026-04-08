@@ -3,9 +3,7 @@
 ## En global
 
 Dans le README.md -> comment lancer le code ?
-Le code n'est pas commenté et une même cellule peut contenir plusieurs traitements.
-
-Les nettoyages de variables se font de préférence au début pour éviter de dupliquer du code ou pour ne pas avoir à refaire du nettoyage en cours de route.
+Une même cellule peut contenir plusieurs traitements.
 
 ## Les questions du DM
 
